@@ -13,6 +13,7 @@
     <br/> new feature
     <br/>bug fix
     <br/>new bug fix
+       <br/>new bug fix2
     <a href="https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-LESS">LESS Starter Kit</a>
     .
     <a href="https://codestitch-intermediate.netlify.app/">View Live Result</a>
